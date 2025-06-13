@@ -20,8 +20,10 @@ A beautiful, responsive Next.js application for browsing upcoming live webinars 
 - Webinars Page: https://babynama-assignment-tau.vercel.app/webinars
 
 ## UI Screenshots 
-![Screenshot 1](https://github.com/user-attachments/assets/2d4e87dc-ca9a-4a68-a0a9-18f5c55fa1a1)
-![Screenshot 2](https://github.com/user-attachments/assets/54e4cc55-3338-4f96-9f6d-b2892e77ef60)
+![Screenshot 1](https://github.com/user-attachments/assets/6e551f79-447f-466c-946e-e71c87285ba2)
+![Screenshot 2](https://github.com/user-attachments/assets/55e1faa6-2cc9-4d92-a8d2-a690b2a015ba)
+![Screenshot 3](https://github.com/user-attachments/assets/0387f74e-9868-4a12-81fd-5b0b2100684d)
+
 
 ## Technical Stack
 
