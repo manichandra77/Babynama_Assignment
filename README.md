@@ -15,7 +15,9 @@ A beautiful, responsive Next.js application for browsing upcoming live webinars 
 
 ## Live Demo
 
-**Live URL**: [Will be updated after Vercel deployment]
+**Live URL**
+Main Page: https://babynama-assignment-tau.vercel.app/
+Webinars Page: https://babynama-assignment-tau.vercel.app/webinars
 
 ## Technical Stack
 
@@ -45,15 +47,15 @@ app/
 │   └── page.tsx           # Webinars listing page
 ├── globals.css            # Global styles with Tailwind
 ├── layout.tsx             # Root layout with navigation
-└── page.tsx              # Home page
+└── page.tsx               # Home page
 ```
 
 ## User Story Implementation
 
-✅ **Dedicated Webinars Page**: Created at `/webinars` route with clean, intuitive design  
-✅ **Mock Data**: Implemented realistic webinar data with 4+ sessions from actual medical professionals  
-✅ **Interactive Cards**: Each webinar displays as a styled card with comprehensive information  
-✅ **View Details Functionality**: Buttons log webinar IDs to browser console as specified  
+ **Dedicated Webinars Page**: Created at `/webinars` route with clean, intuitive design  
+ **Mock Data**: Implemented realistic webinar data with 4+ sessions from actual medical professionals  
+ **Interactive Cards**: Each webinar displays as a styled card with comprehensive information  
+ **View Details Functionality**: Buttons log webinar IDs to browser console as specified  
 
 ## Design Highlights
 
@@ -107,12 +109,12 @@ app/
 
 This project fulfills all requirements of the Babynama internship assignment:
 
-- ✅ Built with Next.js and React.js as specified
-- ✅ Webinars page at `/webinars` route
-- ✅ Mock data array with id, title, speaker, and date fields
-- ✅ Styled cards displaying webinar information
-- ✅ Interactive "View Details" buttons with console logging
-- ✅ Production-ready code quality and design
-- ✅ Responsive design for all devices
+- Built with Next.js and React.js as specified
+- Webinars page at `/webinars` route
+- Mock data array with id, title, speaker, and date fields
+- Styled cards displaying webinar information
+- Interactive "View Details" buttons with console logging
+- Production-ready code quality and design
+- Responsive design for all devices
 
 ---
